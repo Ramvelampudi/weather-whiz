@@ -32,7 +32,7 @@ Weather Whiz is a Python program designed to fetch and display real-time weather
 
 ### API Key
 
-Weather Whiz relies on the WeatherAPI to fetch weather data. To use the program, you need to obtain your own API key from WeatherAPI.com and replace `<YOUR_API_KEY>` in the script with your key. Without a valid API key, the program will not be able to fetch weather data.
+Weather Whiz relies on the WeatherAPI to fetch weather data. To use the program, you need to obtain your own API key from WeatherAPI.com and replace `<YOUR_API_KEY>` in the script with your key. Without a valid API key, the program will not be able to fetch weather data. The specific API endpoint may not be valid anymore, as this code uses a specific API key and endpoint from the past. You might need to replace these with a working API key and endpoint if you plan to use this code with an actual weather API.
 
 ### Installation
 
