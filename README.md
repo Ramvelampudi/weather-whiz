@@ -1,5 +1,5 @@
 # Weather Whiz
-Weather Whiz is a Python program designed to fetch and display real-time weather data for a city using the WeatherAPI. The program provides a user-friendly interface that allows users to enter the name of a city and instantly receive the current temperature in degrees Celsius. Moreover, it leverages text-to-speech technology to read the temperature aloud, making it accessible to users with visual impairments or those who prefer audio feedback.
+Weather Whiz is a Python program designed to fetch and display real-time weather data for a city using the WeatherAPI. The program provides a user-friendly interface that allows users to enter the name of a city and instantly receive the current temperature in degrees Celsius. Moreover, it leverages text-to-speech technology to read the temperature aloud, those who prefer audio feedback.
 ## Flowchart
 ![untitled (1)](https://github.com/Ramvelampudi/weather-whiz/assets/111103944/ad2e7f18-eb74-4081-a2ef-a6ec23a498f3)
 
